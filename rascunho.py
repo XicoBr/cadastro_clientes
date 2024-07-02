@@ -12,4 +12,4 @@ tabela = pd.read_excel("banco_clientes5.xlsx")
 # for infos in tabela:
 #     print(f'{infos}', end=' ' * 5)
 print()
-display(tabela)
+print(tabela)
